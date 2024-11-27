@@ -29,6 +29,6 @@
 ## 联系我们
 如果您对隐私政策有任何疑问，请通过以下方式联系我们：
 - Email: ezewyz@gmail.com
-- GitHub: https://github.com/kylisss/ai-share-card
+- GitHub: https://github.com/eze-is/ai-share-card
 
 最后更新日期: 2024-11-27
